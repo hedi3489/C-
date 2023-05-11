@@ -1,0 +1,81 @@
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabase.mdf
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabase_log.ldf
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.cs
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.Designer.cs
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.xsc
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.xsd
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.xss
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\Lend_Book.LendBookForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ModifyBookForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SellBookForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignUpForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StaffForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SupplierForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+G:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabase.mdf
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabase_log.ldf
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.cs
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.Designer.cs
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.xsc
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.xsd
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.xss
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\Lend_Book.LendBookForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ModifyBookForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SellBookForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignUpForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StaffForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SupplierForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+E:\My Files\Vanier Documents\Winter 2023\Programming Patterns\Project\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabase.mdf
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabase_log.ldf
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.cs
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.xsc
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.xsd
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.xss
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryDatabaseDataSet.Designer.cs
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBookForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\Lend_Book.LendBookForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.ModifyBookForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SellBookForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignUpForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StaffForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SupplierForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.UserForm.resources
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Hedi\Desktop\ProgPatt-Project\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
